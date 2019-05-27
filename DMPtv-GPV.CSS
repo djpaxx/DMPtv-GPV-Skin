@@ -4,7 +4,11 @@
 }
 
 .edit {
-    .xbox.white {
+.controller.xbox {
     background: url(xbox-assets/base-white.svgz);
-    }
+    height: 630px;
+    width: 750px;
+    /*    margin-left: -375px;
+        margin-top: -285px;*/
+}
 }
