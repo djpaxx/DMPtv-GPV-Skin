@@ -4,5 +4,7 @@
 }
 
 .edit {
+    .xbox.white {
     background: url(xbox-assets/base-white.svgz);
+    }
 }
